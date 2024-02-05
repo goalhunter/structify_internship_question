@@ -1,6 +1,8 @@
 # structify_internship_question
 It is a repository created for the internship question given by Structify
 
+# The time complexity of the provided code is less than O(n^2), where 'n' is the number of elements in the data.
+
 ## algorithm
 1.	Function Definition:
      •	Define a function called count_intersections with a single parameter data.
